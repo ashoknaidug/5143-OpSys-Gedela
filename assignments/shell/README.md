@@ -1,3 +1,27 @@
+> Date: 02/21/2017
+> Shell Implementation.
+>List of commands we Implemented.
+pwd :display the path of the current directory
+mkdir
+rm
+rmdir
+cd
+cat
+cp
+mv
+wc
+head
+tail
+grep
+less
+sort
+ls
+history
+who
+chmod
+quit
+
+
 >Group Members
 >
 | Name     | Email   | Github Username |
