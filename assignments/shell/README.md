@@ -24,11 +24,11 @@
 | `tail`             | `file` | display the last few lines of a file |
 | `grep`             | `'keyword' file` | search a file for keywords |
 | `wc`             | `file` | count number of lines/words/characters in file |
-| `sort`                     | sort data |
-| `history`           | show a history of all your commands |
-| `who`                      | list users currently logged in |
-| `chmod xxx`         | change modify permission | 
-| `Quit`         | TO Exit from Shell | 
+| `sort`               |        | sort data |
+| `history`   |        | show a history of all your commands |
+| `who`       |               | list users currently logged in |
+| `chmod xxx`  |       | change modify permission | 
+| `Quit`    |     | TO Exit from Shell | 
 
 
 ## commands not working properly.
@@ -37,12 +37,12 @@
 |                |    `-a`	  |   list all show hidden files      |
 |                |    `-l`	  |    long listing                   |
 |                |    `-h`	  |    human readable sizes           |
-| `command > file`           | redirect standard output to a file |
-| `command >> file`          | append standard output to a file |
-| `command < file`           | redirect standard input from a file |
-| `command1 | command2`      | pipe the output of command1 to the input of command2 |
-| `cat file1 file2 > file0`  | concatenate file1 and file2 to file0 |
-| `!x`                | this loads command `x` from your history so you can run it again |
+| `command > file` |          | redirect standard output to a file |
+| `command >> file` |         | append standard output to a file |
+| `command < file`   |        | redirect standard input from a file |
+| `command1 | command2`|      | pipe the output of command1 to the input of command2 |
+| `cat file1 file2 > file0`|  | concatenate file1 and file2 to file0 |
+| `!x`         |       | this loads command `x` from your history so you can run it again |
 
 
 >Group Members
