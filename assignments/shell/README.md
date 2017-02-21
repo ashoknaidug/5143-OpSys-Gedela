@@ -31,7 +31,7 @@
 | `Quit`    |     | TO Exit from Shell | 
 
 
-## commands not working properly.
+## Commands not working properly.
 | Command	     | Flag / Param      | Meaning                           |
 |----------------|------------|-----------------------------------|
 |                |    `-a`	  |   list all show hidden files      |
