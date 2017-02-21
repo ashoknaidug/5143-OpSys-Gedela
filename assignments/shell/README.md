@@ -1,7 +1,7 @@
 # Date: 02/21/2017
 # Shell Implementation.
 # List of commands we Implemented.
-
+>
 | Command	     | Flag / Param      | Meaning                           |
 |----------------|------------|-----------------------------------|
 | `pwd`	         |             |display the path of the current directory |
@@ -11,7 +11,7 @@
 |                |   `~	`      |change to home-directory           |
 | 	             |   `..`      |change to parent directory          | 
 | `ls	`        |            | list files and directories        |
-
+>
 | Command | Params      |Meaning                                  |
 |---------|-----------|-------------------------------|
 | `cp `            | `file1 file2`    | copy file1 and call it file2 |
@@ -30,7 +30,7 @@
 | `chmod xxx`  |       | change modify permission | 
 | `Quit`    |     | TO Exit from Shell | 
 
-
+>
 ## Commands not working properly.
 | Command	     | Flag / Param      | Meaning                           |
 |----------------|------------|-----------------------------------|
