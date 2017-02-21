@@ -34,7 +34,7 @@
 ## Commands not working properly.
 | Command	     | Flag / Param      | Meaning                           |
 |----------------|------------|-----------------------------------|
-|                |    `-a`	  |   list all show hidden files      |
+| `ls `               |    `-a`	  |   list all show hidden files      |
 |                |    `-l`	  |    long listing                   |
 |                |    `-h`	  |    human readable sizes           |
 | `command > file` |          | redirect standard output to a file |
