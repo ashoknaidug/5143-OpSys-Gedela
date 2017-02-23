@@ -30,8 +30,6 @@
 | `chmod xxx`  |       | change modify permission | 
 | `Quit`    |     | TO Exit from Shell | 
 
->
-## Commands not working properly.
 | Command	     | Flag / Param      | Meaning                           |
 |----------------|------------|-----------------------------------|
 | `ls `               |    `-a`	  |   list all show hidden files      |
