@@ -18,19 +18,19 @@ Team Information :Team Number 5
 
 ### Which additional code is attributed to each team member.
 
--Akkaraboina, Manju Yadav
+- Akkaraboina, Manju Yadav
   -
   -
   -
   -
   -
--Ashoknaidu Gedela
+- Ashoknaidu Gedela
   -
   -
   -
   -
   -
--Biradhavolu, Sai Avinash Reddy
+- Biradhavolu, Sai Avinash Reddy
   -
   -
   -
